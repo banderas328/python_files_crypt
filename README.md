@@ -11,7 +11,7 @@ it's easy to use . but if you need use "salt" files you can create it manualy. p
 text files. here you can add ONLY!!! 16 characters strings line by line. or 48 characters .
  not 15,27,31 etc. only 16 or 48 characters lenght.
 
-i am thinking its not necessary to write manual. i think it is enought easy to use. but if you have some questions you can ask me at
+i am think its not necessary to write manual. i think it is enought easy to use. but if you have some questions you can ask me at
 banderas328@yandex.ru
 
 remeber project is 100% free . but i will happy if you donate some bitcoins on wallet 33bkk1PoiU7C1eAzQtKeznRTwo6pfyCjKg
