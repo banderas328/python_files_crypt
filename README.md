@@ -7,7 +7,7 @@ SOURCES
 2) Also you can unzip dist1.1.zip file and use it like simple windows exe programm. just run 
 crypt.exe file and follow instructions.
 it's easy to use . but if you need use "salt" files you can create it manualy. project already have salt files
-  with name salt,salt1, you can open it by text editor and edit its should be simple
+  with name salt,salt1, you can open it by text editor and edit, its should be simple
 text files. here you can add ONLY!!! 16 characters strings line by line. or 48 characters .
  not 15,27,31 etc. only 16 or 48 characters lenght.
 
