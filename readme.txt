@@ -1,4 +1,4 @@
-Hi. Fell free to use my AES file encoder. You can copy, edit , use it for your own and commercial interests.
+Hi. Feel free to use my AES file encoder. You can copy, edit , use it for your own and commercial interests.
 it's 100% free to use .
 
 
