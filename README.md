@@ -16,7 +16,7 @@ banderas328@yandex.ru
 
 remeber project is 100% free . but i will happy if you donate some bitcoins on wallet 33bkk1PoiU7C1eAzQtKeznRTwo6pfyCjKg
 
-i promise every donate will update project and add nice to have features. but you can also send me email and ask add this
+i promise every donate will update project and add nice to have features, and some black rum with cigars :). but you can also send me email and ask add this
 feature for free :)
 
 
