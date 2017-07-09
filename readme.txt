@@ -9,8 +9,7 @@ Github repository contains sources in Python language and you can edit it. 2)
    here you can add ONLY!!! 16 characters strings line by line. or 48 characters . not 15,27,31 etc. only 16 or 48 characters length.
 
 i  think its not necessary to write a manual. i think it is  easy enough to use.
- but if you have some questions you can send your questions to banderas328@yandex.ru remember, the  project is 100% free .
- but i will be  happy if you donate some bitcoins to my wallet 33bkk1PoiU7C1eAzQtKeznRTwo6pfyCjKg
+ but if you have some questions you can send your questions to banderas328@yandex.ru remember
 
 i promise every donation will update project and add some nice to have features, and some black rum with cigars :).
  but you can also send me an email and ask to add this feature for free :)
